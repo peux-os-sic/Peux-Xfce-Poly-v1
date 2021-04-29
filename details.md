@@ -1,1 +1,1 @@
-This is the polybar configuration that is present in Peux XFCE 21.01. The repository can be found at https://github.com/peux-os-sic/Peux-Xfce-Poly-v1.
+This is the polybar configuration that is present in Peux XFCE 21.01. This will only copy the configuration to the "~/.config/polybar/" folder. You will have to manually configure the path according to your needs. The repository can be found at https://github.com/peux-os-sic/Peux-Xfce-Poly-v1.
