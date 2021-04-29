@@ -1,6 +1,5 @@
 #!/bin/bash
 
-PASSWD="$(zenity --password --title=Authentication)\n"
 dir="$HOME/.config/polybar"
 
 # check if polybar directory exists or not!
