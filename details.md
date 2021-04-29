@@ -1,1 +1,1 @@
-Polybar configuration present in Peux XFCE 21.01. The repository can be found at 
+This is the polybar configuration that is present in Peux XFCE 21.01. The repository can be found at 
