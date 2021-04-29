@@ -15,7 +15,8 @@ fi
 
 echo "changing directory"
 cd ../
-echo "$(notify-send 'Fetched folder has been moved to ~/.config/polybar/XFCE/')" | cp -r Peux-Xfce-Poly-v1/polybar/ $dir/XFCE/v1
-rm -rf Peux-Xfce-Poly-v1
 
+cp -r Peux-Xfce-Poly-v1/polybar/ $dir/XFCE/v1
+rm -rf Peux-Xfce-Poly-v1
+notify-send 'Fetched folder has been moved to ~/.config/polybar/XFCE/'
 
